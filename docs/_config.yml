@@ -15,8 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: 曦
 email: umaru@umaru.co
-description: >- # this means to ignore newlines until "baseurl:"
-  凝萌·曦子的主页，目前不知道会用来干什么。
+description:  # this means to ignore newlines until "baseurl:"
+  凝萌·曦子的主页，目前不知道会用来干什么。 | 
+  埋まる·亜弥のウェブサイト、何してわかりません。 | 
+  Umaru Xi's website, not know what to write now.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.umaru.co" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

@@ -1,12 +1,13 @@
 ---
 layout: page
-title: 关于我
+title: About Me
 permalink: /about/
 ---
 
-联系方式
+> ### **Contact**
 
-    E-Mail:     umaru@umaru.co
-    FreeNode:   UmaruAya
+**E-Mail:** &emsp;&emsp;&emsp;&emsp;&emsp; [umaru@umaru.co](mailto:\\umaru@umaru.co "Send E-Mail to me.")[^1]  
+**FreeNode(IRC):** &emsp; UmaruAya[^2]
 
-[jekyll-organization]: https://github.com/jekyll
+[^1]: I would reply E-Mail about daily.
+[^2]: You could't find me on it most time.
