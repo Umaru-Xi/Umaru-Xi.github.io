@@ -25,7 +25,7 @@ $$
 
  > #### Maxwell Equations(Integral)
 
- ##### Gauss's Law:
+##### Gauss's Law:
 
  $$
   \iint_{\partial\Omega}\mathbf{\vec{E}}\cdot d\mathbf{\vec{S}}=\frac{1}{\varepsilon_0}\iiint_\Omega \rho dV \\
