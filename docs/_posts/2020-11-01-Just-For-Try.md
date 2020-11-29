@@ -6,7 +6,9 @@ categories: trash
 mathjax: true
 
 ---
+
 {% include mathjax.html %}
+
 > #### Maxwell Equations(Differential) ####
 
 ##### Gauss's Law:
