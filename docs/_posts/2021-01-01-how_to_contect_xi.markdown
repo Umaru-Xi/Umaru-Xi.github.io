@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "进学考试复习状态告知"
-date:   2020-12-20 20:18:31 +0800
+date:   2021-01-01 23:59:59 +0800
 categories: posts
 ---
 
@@ -42,4 +42,4 @@ categories: posts
 冬祺
 
 <p align="right">Umaru Xi</p>
-<p align="right">2020.11.09</p>
+<p align="right">2021.01.01</p>
