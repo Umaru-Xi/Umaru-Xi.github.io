@@ -13,7 +13,7 @@ categories: posts
 
 &emsp;&emsp;Maemo Daily:这里将不定期上传一些“过时”设备取得的成果，比如Nokia N900拍摄的相片。因为N900的操作系统Maemo 5是本栏目的开端，所以栏目名为每日Maemo～  
 &emsp;&emsp;备注:落款是页面的起始日期。  
-  
+
 &emsp;&emsp;今日Maemo:读白  
 &emsp;&emsp;![今日Maemo](/include/MaemoDaily/Latest.jpg){:class="img-responsive"}  
 
