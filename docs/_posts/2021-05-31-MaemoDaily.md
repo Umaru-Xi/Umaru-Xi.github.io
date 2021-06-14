@@ -20,10 +20,10 @@ categories: posts
 &emsp;&emsp;2021年06月13日:续命机器  
 &emsp;&emsp;![2021年06月13日Maemo照片](/include/MaemoDaily/2021_06_13.jpg){:class="img-responsive"}  
 
-&emsp;&emsp;2021年06月12日:今天没有Maemo  
+&emsp;&emsp;2021年06月12日:梅菜肉  
+&emsp;&emsp;![2021年06月12日Maemo照片](/include/MaemoDaily/2021_06_12.jpg){:class="img-responsive"}  
 
-&emsp;&emsp;2021年06月11日:梅菜肉  
-&emsp;&emsp;![2021年06月11日Maemo照片](/include/MaemoDaily/2021_06_11.jpg){:class="img-responsive"}  
+&emsp;&emsp;2021年06月11日:今天没有Maemo  
 
 &emsp;&emsp;2021年06月10日:停椅场  
 &emsp;&emsp;![2021年06月10日Maemo照片](/include/MaemoDaily/2021_06_10.jpg){:class="img-responsive"}  
