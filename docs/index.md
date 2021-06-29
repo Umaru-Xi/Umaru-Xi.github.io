@@ -7,8 +7,8 @@ layout: home
 
 {% include JavaScripts.html %}
 
+<marquee>Maemo Daily栏目新增成员KaiOS,设备型号为Nokia 2720 Flip~</marquee>  
 <marquee>本站启用了新的域名：www.umaru.science，请记住哦～</marquee>  
-<marquee>本站最近于2021年05月16日从故障中恢复啦～</marquee>  
 
 {% include SearchEngine.html %}
 
