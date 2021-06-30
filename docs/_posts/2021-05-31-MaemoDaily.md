@@ -15,8 +15,11 @@ categories: posts
 &emsp;&emsp;本栏目新增成员KaiOS,型号为Nokia 2720 Flip.  
 &emsp;&emsp;备注:落款是页面的起始日期。  
 
-&emsp;&emsp;今日Maemo:放心睡(KaiOS摄)  
+&emsp;&emsp;今日Maemo:修长  
 &emsp;&emsp;![今日Maemo](/include/MaemoDaily/Latest.jpg){:class="img-responsive"}  
+
+&emsp;&emsp;2021年06月29日:(KaiOS摄)  
+&emsp;&emsp;![2021年06月29日Maemo照片](/include/MaemoDaily/2021_06_29.jpg){:class="img-responsive"}  
 
 &emsp;&emsp;2021年06月28日:放心睡  
 &emsp;&emsp;![2021年06月28日Maemo照片](/include/MaemoDaily/2021_06_28.jpg){:class="img-responsive"}  
