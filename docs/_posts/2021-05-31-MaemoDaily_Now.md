@@ -8,4 +8,4 @@ categories: posts
 {% include JavaScripts.html %}
 
 正在跳转到最新的Maemo Daily分页...  
-<meta http-equiv="refresh" content="2;url=/posts/2021/05/30/MaemoDaily.html">
+<meta http-equiv="refresh" content="2;url=/posts/2021/07/01/MaemoDaily.html">
