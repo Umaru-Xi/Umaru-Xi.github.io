@@ -7,7 +7,7 @@ layout: home
 
 {% include JavaScripts.html %}
 
-<marquee>Maemo Daily栏目新增成员KaiOS,设备型号为Nokia 2720 Flip~</marquee>  
+<marquee>~~~热烈庆祝中国共产党成立 100 周年~~~</marquee>  
 <marquee>本站启用了新的域名：www.umaru.science，请记住哦～</marquee>  
 
 {% include SearchEngine.html %}
