@@ -29,6 +29,7 @@ categories: posts
 &emsp; a. **进学入试顺利**;  
 &emsp; b. **没有Trouble**;  
 &emsp; c. **变得更厉害**;  
+&emsp; d. ~~**顺利毕业**~~;  
 
 <p align="right">Umaru Xi</p>
 <p align="right">2021.01.18</p>
