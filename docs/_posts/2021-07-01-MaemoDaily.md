@@ -18,6 +18,11 @@ categories: posts
 &emsp;&emsp;今日Maemo:红灯绿酒,红男绿女  
 &emsp;&emsp;![今日Maemo](/include/MaemoDaily/Latest.jpg){:class="img-responsive"}  
 
+&emsp;&emsp;2021年07月14日:没有Maemo  
+
+&emsp;&emsp;2021年07月13日:红灯绿酒,红男绿女  
+&emsp;&emsp;![2021年07月13日Maemo照片](/include/MaemoDaily/2021_07_13.jpg){:class="img-responsive"}  
+
 &emsp;&emsp;2021年07月12日:土豆人  
 &emsp;&emsp;![2021年07月12日Maemo照片](/include/MaemoDaily/2021_07_12.jpg){:class="img-responsive"}  
 
