@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "发布Xibian"
+date:   2021-02-05 10:13:59 +0800
+categories: posts
+---
+
+{% include JavaScripts.html %}
+
+> ### 基于Debian再发行的一个zynq专用发行版 ###
+
+#### 下载链接: [Download Link](https://github.com/Umaru-Xi/Umaru-Xi.github.io/releases/download/Xibian/Xibian.tar.xz) ####
+
+#### 特性: ####
+
+&emsp;1. 支持Device Tree Overlay，可以动态加载设备树以支援不同设备；
+
+&emsp;2. 使用Debian再发行工具生成rootfs，支持apt包管理器，有完整的Linux使用体验；
+
+&emsp;3. 内核支持FPGA Manager接口；
+
+&emsp;4. U-Boot和内核调试均开启；
+
+&emsp;5. 裁剪自Xilinx官方维护的最新源码。
+
+#### 已知的问题: ####
+
+&emsp;1. 使用FPGA Manager接口(/sys/class/fpga_manager/fpga0/firmware)写入vivado直接生成的Bin文件可能超时；
+
+&emsp;2. 默认启用设备树重载特性，启动时不加载FPGA Bitstream，板载FPGA Done LED可能不工作。
+
+<p align="right">Umaru Xi</p>
+<p align="right">2021.02.05</p>
+
+#### Some useful info: #### 
+
+1. "root" user cannot directly login, please use "sudo" or "su"(passwd: "root") after login with normal user;
+
+2. Default user name: "xi", passwd: "xi";
+
+3. Network interface: "ip";
+
+4. Power control: "systemctl"("systemctl poweroff","systemctl reboot",etc);
+
+5. Default packages manager: "dpkg","apt".
+
+#### Files tree: ####
+
+Xibian
+
+&emsp;Screenshot			Some screenshot images.
+
+&emsp;&emsp;u-boot.jpg		Example of u-boot bootloader running. 
+
+&emsp;&emsp;kernel.jpg		Example of kernel loaded.
+
+&emsp;&emsp;rootfs.jpg		Example of Linux started.
+
+&emsp;&emsp;neofetch.jpg	Example of neofetch shows the system info.
+
+&emsp;SDImg			Disk images which can directly flash into MMC card.
+
+&emsp;&emsp;Xibian_Lite_SD.img	Xibian lite edition full(with bootloader) SD image.
+
+&emsp;BOOT.img			Partition image of bootloader(contains u-boot,device tree,kernel,FPGA bitstream, etc).
+
+&emsp;Xibian_Lite.img		Partition image of Xibian Linux(Lite Edition for ZYNQ XC7Z020).
+
+&emsp;README.txt			This file.
+
+#### Images: #####
+
+&emsp;u-boot:
+&emsp;&emsp;![u-boot screenshot](/include/20210205/u-boot.jpg){:class="img-responsive"}
+
+&emsp;kernel:
+&emsp;&emsp;![kernel screenshot](/include/20210205/kernel.jpg){:class="img-responsive"}
+
+&emsp;rootfs:
+&emsp;&emsp;![rootfs screenshot](/include/20210205/rootfs.jpg){:class="img-responsive"}
+
+&emsp;neofetch:
+&emsp;&emsp;![neofetch screenshot](/include/20210205/neofetch.jpg){:class="img-responsive"}
