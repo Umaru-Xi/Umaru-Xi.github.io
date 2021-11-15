@@ -7,8 +7,10 @@ layout: home
 
 {% include JavaScripts.html %}
 
-<marquee>本站启用了新的域名：www.umaru.science，请记住哦～</marquee>  
-<marquee>设计了自己的QSL卡片哦.</marquee>  
+<audio src="/include/BGM/Index_BGM.mp3" autoplay></audio>
+
+<marquee>想把你手牵,漫步在海边看浪花一片.  --源自:咸咸的</marquee>  
+<marquee>为了兼容老旧设备,本站使用最原始的背景音乐插入方式.在性能和带宽乐观时允许播放可以更好感受作者原汁原味的想法.</marquee>  
 
 ![QSL_Card](/include/INDEX/QSL000.jpg){:class="img-responsive"}  
 
