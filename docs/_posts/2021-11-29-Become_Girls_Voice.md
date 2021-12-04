@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 成为女孩子的声音(笔记)
+title: 成为女孩子的声音_嗓音训练(笔记)
 date: 2021-11-29 T2:00:00 +08:00
 categories: posts
 ---
