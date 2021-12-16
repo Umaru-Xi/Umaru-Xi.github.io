@@ -12,6 +12,6 @@ layout: home
 <marquee>想把你手牵,漫步在海边看浪花一片.  --源自:咸咸的</marquee>  
 <marquee>为了兼容老旧设备,本站使用最原始的背景音乐插入方式.在性能和带宽乐观时允许播放可以更好感受作者原汁原味的想法.</marquee>  
 
-![Our_Sky](/include/MaemoDaily/2021_05_24.jpg){:class="img-responsive"}  
+![Our_Sky](/include/INDEX/baidu.png){:class="img-responsive"}  
 
 {% include SearchEngine.html %}
