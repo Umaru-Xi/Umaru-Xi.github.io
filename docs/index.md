@@ -10,7 +10,7 @@ layout: home
 <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio>
 
 <marquee>想把你手牵,漫步在海边看浪花一片.</marquee>  
-<marquee>最近将备用机器切换到了FreeBSD, 已经完成了工作环境准备, 前段时间因此暂停了页面维护.</marquee>  
+<marquee>音乐理论基础笔记已经全部上载.</marquee>  
 
 {% include SearchEngine.html %}
 
