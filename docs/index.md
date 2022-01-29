@@ -10,7 +10,7 @@ layout: home
 <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio>
 
 <marquee>想把你手牵,漫步在海边看浪花一片.</marquee>  
-<marquee>音乐理论基础笔记已经全部上载.</marquee>  
+<marquee>自乐理完成后, 使用了新的生活检查单式. 最近会投入更多时间开一些新坑.</marquee>  
 
 {% include SearchEngine.html %}
 
