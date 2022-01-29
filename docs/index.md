@@ -14,6 +14,11 @@ layout: home
 
 {% include SearchEngine.html %}
 
-[歌单分享页面](/posts/2021/12/22/MusicShare.html "歌单页面")
+
+友情链接: &emsp; [Farthing博客(Farthing)](https://farthing.xyz/) &emsp; [时之碎片(窃时者)](https://timeqsz.com/)  
+
+(注意: 本站使用古老技术提供老旧设备支持, 但外部网站可能需要你的浏览器支持新技术)  
+
+[歌单分享页面](/posts/2021/12/22/MusicShare.html "歌单页面")  
 
 <iframe src="/posts/2021/12/17/TwiTalks.html#TTalks-top" scrolling="auto" width="100%" height="150" frameborder="0" scrolling="yes"></iframe>  
