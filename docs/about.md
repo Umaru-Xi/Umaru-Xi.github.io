@@ -7,8 +7,9 @@ permalink: /about/
 {% include JavaScripts.html %}
 
 
-<h2>什么? 妳反复尝试却联系不上我?</h2>  
-不如来[听听歌](https://music.163.com/#/playlist?id=7077611946 "听听歌按钮")吧.  
+<h3>如果妳反复尝试却联系不上我:</h3>  
+
+不如来[听听歌](https://music.163.com/#/playlist?id=7077611946 "听听歌按钮")吧, 或者点击左上方[UmaruAya](/ "主页")访问我的博客.  
 
 > #### 进学考试复习状态告知 ####  
 > ###### &emsp;2020年11月09日初稿;######  
