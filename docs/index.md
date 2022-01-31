@@ -11,7 +11,7 @@ layout: home
 
 <marquee>想把你手牵,漫步在海边看浪花一片.</marquee>  
 <marquee>添加了"全部笔记目录", 可以在下方快捷链接中找到.</marquee>  
-<marquee>使用了新的生活检查单式. 最近会投入更多时间开一些新坑.</marquee>  
+<marquee>为了确保目录可用, 之后的笔记页面不会在更新后被置顶了.</marquee>  
 
 {% include SearchEngine.html %}
 
