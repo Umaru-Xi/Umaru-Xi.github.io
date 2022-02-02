@@ -10,8 +10,7 @@ layout: home
 <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio>
 
 <marquee>想把你手牵,漫步在海边看浪花一片.</marquee>  
-<marquee>添加了"全部笔记目录", 可以在下方快捷链接中找到.</marquee>  
-<marquee>为了确保目录可用, 之后的笔记页面不会在更新后被置顶了.</marquee>  
+<marquee>之后的笔记页面时间将保持为首发时间以确保目录可用, 更新情况请转到下方"全部笔记目录".</marquee>  
 
 {% include SearchEngine.html %}
 
