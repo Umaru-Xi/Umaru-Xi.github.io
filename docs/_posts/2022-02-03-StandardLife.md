@@ -30,6 +30,7 @@ categories: posts
 <div id="StandardLog"></div>
 标准化日志:  
 
+&emsp;&emsp;4.[标准化日志-20220206](/include/StandardLife/StandardLog/标准化日志-20220206.pdf);  
 &emsp;&emsp;3.[标准化日志-20220204](/include/StandardLife/StandardLog/标准化日志-20220204.pdf);  
 &emsp;&emsp;2.[标准化日志-20220201](/include/StandardLife/StandardLog/标准化日志-20220201.pdf);  
 &emsp;&emsp;1.[曦日志-20220129](/include/StandardLife/StandardLog/曦日志-20220129.pdf);  
