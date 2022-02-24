@@ -10,8 +10,8 @@ layout: home
 <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio>
 
 <marquee>想把你手牵,漫步在海边看浪花一片.</marquee>  
-<marquee>添加了网站更新记录, 从今起要认真写commit啦!</marquee>  
 <marquee>启动了"标准化生活项目".</marquee>  
+<marquee>要越来越厉害, 要每天都开心!</marquee>  
 
 {% include SearchEngine.html %}
 
