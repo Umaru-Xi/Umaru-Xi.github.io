@@ -16,15 +16,19 @@ categories: posts
 
 目录:  
 
-&emsp;&emsp;0.[标准化原则](#StandardPrinciple);  
+&emsp;&emsp;0.[标准化规则](#StandardPrinciple);  
 &emsp;&emsp;1.[标准化日志](#StandardLog);  
 &emsp;&emsp;2.[标准化贴纸](#StandardStick);  
 
 * * *
 <div id="StandardPrinciple"></div>
-标准化原则:  
+标准化规则:  
 
-&emsp;&emsp;需要等有时间仔细研究.  
+&emsp;&emsp;原则需要等有时间仔细研究.  
+
+标准化细则:  
+
+&emsp;&emsp;1.[标准化学习流程-20220402[草]](/include/StandardLife/StandardLaw/标准化学习流程(20220402[草]).pdf);  
 
 * * *
 <div id="StandardLog"></div>
