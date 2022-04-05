@@ -10,6 +10,7 @@ layout: home
 <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio>
 
 <marquee>想把你手牵,漫步在海边看浪花一片.</marquee>  
+<marquee>近期整合了部分文章, 更新了标准化生活项目.</marquee>  
 
 {% include SearchEngine.html %}
 
