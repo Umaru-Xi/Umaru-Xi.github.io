@@ -29,6 +29,7 @@ categories: posts
 标准化细则:  
 
 &emsp;&emsp;1.[标准化学习流程-20220402[草]](/include/StandardLife/StandardLaw/标准化学习流程(20220402[草]).pdf);  
+&emsp;&emsp;2.[医疗急救箱管理-20220405[草]](/include/StandardLife/StandardLaw/医疗急救箱管理(20220405[草]).pdf);  
 
 * * *
 <div id="StandardLog"></div>
