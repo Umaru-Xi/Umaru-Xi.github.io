@@ -29,7 +29,13 @@ categories: posts
 4. Fāma et sententia volant.  
 &emsp;&emsp; (Rumors and opinions are flying.) 谣言和观点满天飞.  
 &emsp;&emsp; "fāma"和"sententia"分别是第一变格法阴性名词"fāma"(谣言)"sententia"(观点)的单数主格形式;  
-&emsp;&emsp; "volant"是第一变格法动词"volāre"(飞)的第三人称复数现在时直陈式主动态;  
+&emsp;&emsp; "volant"是第一变位法动词"volāre"(飞)的第三人称复数现在时直陈式主动态;  
+5. Paucī virī sapientiae student.  
+&emsp;&emsp; (Few men are eager for the wisdom.) 少有人渴望智慧.  
+&emsp;&emsp; "paucī"是第二变格法形容词"paucus"(少的)的主格阳性复数;  
+&emsp;&emsp; "virī"是第二变格法阳性名词"vir"(男人)的复数主格形式;  
+&emsp;&emsp; "sapientiae"是第一变格法阴性名词"sapientia"(智慧)的单数属格形式;  
+&emsp;&emsp; "student"是第一变位法动词"studēre"(渴望)的第三人称复数现在时直陈式主动态, 一般结构为"studēre + dat."(dat. 是与格"dative"的简写);  
 
 &emsp;&emsp;  
 <p align="right">UMRAY</p>
