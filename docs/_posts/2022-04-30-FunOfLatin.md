@@ -13,6 +13,8 @@ categories: posts
 ### 小知识 ###  
 1. 英语中关于上午(AM)与下午(PM)的简写来源:  
 &emsp;&emsp; 拉丁语中的"ante merīdiem"和"post merīdiem". 其中的"merīdiem"是第五变格法阳性名词"merīdiēs"(midday, 中午)的宾格形式;  
+2. 词汇表一词vocabulary的来历:  
+&emsp;&emsp; 第一变位法动词"vocāre(call, 呼叫)衍生出第二变格法中性名词"vocābulum"(称呼), 即我们对某人或某物的称呼. "vocābulum"的复数形式即"vocābula"(词汇表). 直观来看, 将许多不同人或物的称呼汇集在一起就得到了词汇表.  
 
 ### 惯用语 ###  
 1. ab absurdō  
