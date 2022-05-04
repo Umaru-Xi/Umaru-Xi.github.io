@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语
-date: 2022-05-03 T0:00:00 +00:00
+date: 2022-05-04 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -31,9 +31,8 @@ categories: posts
 5. Paucī virī sapientiae student.  
 &emsp;&emsp; (Few men are eager for the wisdom.) 少有人渴望智慧.  
 &emsp;&emsp; "student"是第一变位法动词"studēre"(渴望)的第三人称复数现在时直陈式主动态, 一般结构为"studēre + dat."(dat. 是与格"dative"的简写);  
-5. Sēcrētē amīcōs admonē; laudā palam.  
-&emsp;&emsp; (Warn friends in secret; praise them openly.) 私下里警告朋友, 公开称赞他们.  
-&emsp;&emsp; "sēcrētē"(秘密地)是副词; "palam"(公开地)也是副词.  
+6. Stultus vir perīcula bellī laudat.  
+&emsp;&emsp; (The foolish man praises the dangers of war.) 愚蠢的人赞美战争的危险.  
 
 &emsp;&emsp;  
 <p align="right">UMRAY</p>
