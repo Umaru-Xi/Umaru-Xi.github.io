@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 生活标准化方案
+title: 标准化生活项目
 date: 2022-02-03 T0:00:00 +08:00
 categories: posts
 ---
@@ -19,6 +19,7 @@ categories: posts
 &emsp;&emsp;0.[标准化规则](#StandardPrinciple);  
 &emsp;&emsp;1.[标准化日志](#StandardLog);  
 &emsp;&emsp;2.[标准化贴纸](#StandardStick);  
+&emsp;&emsp;3.[标准化任务管理书](#StandardTask);  
 
 * * *
 <div id="StandardPrinciple"></div>
@@ -49,10 +50,14 @@ categories: posts
 <div id="StandardStick"></div>
 标准化贴纸:  
 
-&emsp;&emsp;[小贴士-20220429](/include/StandardLife/StandardStick/小贴士-20220429.pdf);  
-&emsp;&emsp;[桌面小贴士-20220203](/include/StandardLife/StandardStick/桌面小贴士-20220203.pdf);  
+&emsp;&emsp;1.[小贴士-20220429](/include/StandardLife/StandardStick/小贴士-20220429.pdf);  
+&emsp;&emsp;0.[桌面小贴士-20220203](/include/StandardLife/StandardStick/桌面小贴士-20220203.pdf);  
 
+* * *
+<div id="StandardTask"></div>
+标准化任务管理书:  
 
+&emsp;&emsp;0.[标准化任务管理书-20220504](/include/StandardLife/StandardTask/标准化任务管理书-20220504.pdf);  
 
 &emsp;&emsp;
 <p align="right">UMRAY</p>
