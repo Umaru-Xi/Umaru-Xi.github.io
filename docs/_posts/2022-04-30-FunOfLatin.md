@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语
-date: 2022-05-04 T0:00:00 +00:00
+date: 2022-05-05 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -11,10 +11,12 @@ categories: posts
 &emsp;&emsp; 更新与否取决于笔者的学习过程中是否有值得写在这里的内容, 因此排序与笔者主观意愿无关. 关于语句的语法和句法等更多细节请参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html).  
 
 ### 小知识 ###  
-1. 英语中关于上午(AM)与下午(PM)的简写来源:  
+1. 英语中关于上午(AM)与下午(PM)的简写来历:  
 &emsp;&emsp; 拉丁语中的"ante merīdiem"和"post merīdiem". 其中的"merīdiem"是第五变格法阳性名词"merīdiēs"(midday, 中午)的宾格形式;  
 2. 词汇表一词vocabulary的来历:  
-&emsp;&emsp; 第一变位法动词"vocāre(call, 呼叫)衍生出第二变格法中性名词"vocābulum"(称呼), 即我们对某人或某物的称呼. "vocābulum"的复数形式即"vocābula"(词汇表). 直观来看, 将许多不同人或物的称呼汇集在一起就得到了词汇表.  
+&emsp;&emsp; 第一变位法动词"vocāre(call, 呼叫)衍生出第二变格法中性名词"vocābulum"(称呼), 即我们对某人或某物的称呼. "vocābulum"的复数形式即"vocābula"(词汇表). 直观来看, 将许多不同人或物的称呼汇集在一起就得到了词汇表;  
+3. 虚拟现实装备Oculus Rift与建筑学术语的关系:  
+&emsp;&emsp; 第二变格法阳性名词"oculus"(eye, 眼睛)原封不动地进入了英语, 但是在今天, oculus指穹顶的圆形开口或圆窗(类似眼睛的形状). Oculus VR公司推出的虚拟现实设备似乎也在隐喻"它是你的眼睛";  
 
 ### 惯用语 ###  
 1. ab absurdō  
@@ -33,6 +35,9 @@ categories: posts
 &emsp;&emsp; "student"是第一变位法动词"studēre"(渴望)的第三人称复数现在时直陈式主动态, 一般结构为"studēre + dat."(dat. 是与格"dative"的简写);  
 6. Stultus vir perīcula bellī laudat.  
 &emsp;&emsp; (The foolish man praises the dangers of war.) 愚蠢的人赞美战争的危险.  
+7. Fortūna caeca est.  
+&emsp;&emsp; (Fortune is blind.) 运气是盲目的.  
+&emsp;&emsp; "caeca"是第二变位法形容词"caecus"的阴性单数主格形式;  
 
 &emsp;&emsp;  
 <p align="right">UMRAY</p>
