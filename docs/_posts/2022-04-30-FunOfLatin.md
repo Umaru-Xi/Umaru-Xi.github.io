@@ -23,7 +23,7 @@ categories: posts
 &emsp;&emsp; (from absurdity) 源于荒谬;  
 &emsp;&emsp; "absurdō"是第二变格法形容词"absurdus"(荒谬)的阳性/中性名词单数夺格形式;  
 2. Rotam fortūnae nōn timent.  
-&emsp;&emsp; (They don't fear the wheel of fortune.) 他们并不畏惧命运之论;  
+&emsp;&emsp; (They don't fear the wheel of fortune.) 他们并不畏惧命运之轮;  
 &emsp;&emsp; "rotam"是第一变格法阴性名词"rota"(轮)的单数宾格形式; "timent"是第二变位法动词"timēre"(惧怕)的第三人称复数现在时直陈式主动态;  
 3. Sī valēs, valeō.  
 &emsp;&emsp; (I'm well if you well.) 只要你好, 我就好.  
