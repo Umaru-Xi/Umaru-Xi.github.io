@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语
-date: 2022-05-05 T0:00:00 +00:00
+date: 2022-05-09 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -38,6 +38,8 @@ categories: posts
 7. Fortūna caeca est.  
 &emsp;&emsp; (Fortune is blind.) 运气是盲目的.  
 &emsp;&emsp; "caeca"是第二变位法形容词"caecus"的阴性单数主格形式;  
+8. Culpās multās habēbāmus et semper habēbimus.  
+&emsp;&emsp; (We used to have many troubles, and we always will have.) 我们经常有很多麻烦, 我们将总是有.  
 
 &emsp;&emsp;  
 <p align="right">UMRAY</p>
