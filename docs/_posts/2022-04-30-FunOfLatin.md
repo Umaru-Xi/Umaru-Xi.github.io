@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语
-date: 2022-05-09 T0:00:00 +00:00
+date: 2022-05-12 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -17,6 +17,10 @@ categories: posts
 &emsp;&emsp; 第一变位法动词"vocāre(call, 呼叫)衍生出第二变格法中性名词"vocābulum"(称呼), 即我们对某人或某物的称呼. "vocābulum"的复数形式即"vocābula"(词汇表). 直观来看, 将许多不同人或物的称呼汇集在一起就得到了词汇表;  
 3. 虚拟现实装备Oculus Rift与建筑学术语的关系:  
 &emsp;&emsp; 第二变格法阳性名词"oculus"(eye, 眼睛)原封不动地进入了英语, 但是在今天, oculus指穹顶的圆形开口或圆窗(类似眼睛的形状). Oculus VR公司推出的虚拟现实设备似乎也在隐喻"它是你的眼睛";  
+4. 日本的国际著名体育用品品牌ASICS(亚瑟士)名称的来历:  
+&emsp;&emsp; 公元1世纪, 罗马讽刺作家尤维纳利斯用"mēns sāna in corpore sānō"(A healthy mind in a healthy body, 健康的精神禹于健康的身体)表述生活中的至善. ASICS的名称据说来自于"animus sānus in corpore sānō"(翻译同上);  
+5. 谚语的英语翻译谐音:  
+&emsp;&emsp; 俗话讲"Semper ubi sub ubi!"(注意卫生, 防止皮疹!), 其单词逐个翻译将会得到"Always where under where!", 其谐音"Always wear underwear!"(一般都要穿内衣裤!);  
 
 ### 惯用语 ###  
 1. ab absurdō  
