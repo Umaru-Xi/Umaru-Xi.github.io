@@ -20,6 +20,7 @@ categories: posts
 &emsp;&emsp;1.[标准化日志](#StandardLog);  
 &emsp;&emsp;2.[标准化贴纸](#StandardStick);  
 &emsp;&emsp;3.[标准化任务管理书](#StandardTask);  
+&emsp;&emsp;4.[标准化机动车记录](#StandardAuto);  
 
 * * *
 <div id="StandardPrinciple"></div>
@@ -60,6 +61,13 @@ categories: posts
 
 &emsp;&emsp;1.[标准化任务管理书-20220508](/include/StandardLife/StandardTask/标准化任务管理书-20220508.pdf);  
 &emsp;&emsp;0.[标准化任务管理书-20220504](/include/StandardLife/StandardTask/标准化任务管理书-20220504.pdf);  
+
+* * *
+<div id="StandardAuto"></div>
+标准化机动车记录:  
+
+&emsp;&emsp;1.1.[机动车工程记录书-20220520](/include/StandardLife/StandardAuto/机动车工程记录-20220520.pdf);  
+&emsp;&emsp;1.2.[机动车开支记录书-20220520](/include/StandardLife/StandardAuto/机动车开支记录-20220520.pdf);  
 
 &emsp;&emsp;
 <p align="right">UMRAY</p>
