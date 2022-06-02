@@ -7,7 +7,7 @@ categories: posts
 
 {% include JavaScripts.html %}
 
-&emsp;&emsp; 笔者一个月多前购入了一只YAMAHA公司生产的YRS-23G竖笛, 后又计划购置YRS-302B 这篇文章关于这支竖笛的使用体验以及笔者了解的关于竖笛的一些信息.  
+&emsp;&emsp; 笔者一个月多前购入了一只YAMAHA公司生产的YRS-23G竖笛, 后又计划购置YRS-302B. 这篇文章关于这支竖笛的使用体验以及笔者了解的关于竖笛的一些信息.  
 &emsp;&emsp; 首先, 先介绍YAMAHA公司竖笛的型号中的字母吧(数字代表系列中的代数或等级, 不做进一步讨论). 其中Y表示"YAMAHA", 是公司名的简称; R表示"Recorder", 是竖笛的意思(与录音机同拼写); S表示"Soprano", 指高音(A即"Alto"中音, 以此类推); 最后一个字母G, 表示"German"(日耳曼).  
 
 #### 竖笛的指法系统 ####  
