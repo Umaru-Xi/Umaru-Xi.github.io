@@ -6,20 +6,12 @@ permalink: /about/
 
 {% include JavaScripts.html %}
 
+收到了我的纸质名片却担心遗失? 这里有高清数字副本呐, [正面(徽标面)](/include/BCard/UmaruAyaCardF.png "名片正面(徽标面)")和[反面(信息面)](/include/BCard/UmaruAyaCardB.png "名片反面(信息面)")都可以下载到呢.  
 
-<h3>如果妳反复尝试却联系不上我:</h3>  
+<h3>如果反复尝试却联系不上我:</h3>  
 
-不如来[听听歌](https://music.163.com/#/playlist?id=7077611946 "听听歌按钮")吧, 或者点击左上方[UmaruAya](/ "主页")访问我的博客.  
+不如来[听听歌](https://music.163.com/#/playlist?id=7077611946 "听听歌按钮")吧, 或者点击左上方[UmaruAya](/ "主页")访问我的博客看看如何.  
 
-> #### 进学考试复习状态告知 ####  
-> ###### &emsp;2020年11月09日初稿;######  
-> ###### &emsp;2021年02月25日本告知第一次变更;######  
-> ###### &emsp;2021年03月21日本告知第二次变更;######  
-> ###### &emsp;2021年04月03日本告知载入About页面维护;######  
-> ###### &emsp;2021年05月23日本告知第三次变更;######  
-> ###### &emsp;2021年10月16日本告知第四次变更;######  
-> ###### &emsp;2021年11月15日本告知第五次变更;######  
-> ###### &emsp;2021年12月12日本告知第六次变更;######  
 > ###### &emsp;这里不会记录小的修改.######  
 > ###### &emsp;为避免遗漏必要的通告而发布本告知，请在本告知中的适宜时间选择恰当方式通联.######  
 > ###### &emsp;请注意，下文包含三项重要信息，包括：联络方式、通联时间和备注.######  
@@ -34,7 +26,7 @@ permalink: /about/
 &emsp;&emsp;FREQ(频率)：433.655MHz;  
 &emsp;&emsp;T-CTCS(发射模拟亚音):77.0Hz;  
 &emsp;&emsp;R-CTCS(接收模拟亚音):77.0Hz;  
-&emsp;&emsp;QTH(台站地址,梅登黑德网格):PN23PU;  
+&emsp;&emsp;QTH(台站地址,梅登黑德网格):Moving(移动中);  
 &emsp;&emsp;TIME(可能的通联时间):02:00-8:00 UTC(协调世界时).  
 &emsp;========  
 &emsp;&emsp;ATTENTION(注意):Always QRT when I'm boring(不保证随时执守).  
@@ -49,7 +41,7 @@ permalink: /about/
 
 3.Mobile Phone(移动电话):  
 
-&emsp;Strangers are not allowed.(陌生人不再可用).  
+&emsp;Strangers are not allowed, mail first.(陌生人不再可用, 请先邮件联系).  
 &emsp;========  
 &emsp;&emsp;3.1.SMS(短讯息)：Only for emergency message (仅接收必要的紧急通告).  
 &emsp;&emsp;3.2.Voice(语音))：You will be ban (拒接来电).  
@@ -57,12 +49,12 @@ permalink: /about/
 
 4.IM Software(实时通讯工具):  
 
-&emsp;&emsp;IM softwares are all toys (实时通信工具，仅应作为辅助通信方式，不保证时效).  
+&emsp;&emsp;IM softwares are all toys, mail first (实时通信工具，仅应作为辅助通信方式，不保证时效. 请先邮件联系).  
 
 > #### 注意事项 ####  
-> ### &emsp;每天UTC+8 10:00前及UTC+8 18:00之后拒绝任何信息骚扰。 ###  
+> ### &emsp;每天UTC 02:00前及UTC 10:00之后的任何信息均视为骚扰。 ###  
 > #### 其他 ####  
-> ###### &emsp;祝访客朋友学业/事业有成，幸福健康。73。 ######  
+> ###### &emsp;祝访客朋友平安健康,旨意承行。73。 ######  
 
 &emsp;&emsp;顺颂  
 冬祺  
