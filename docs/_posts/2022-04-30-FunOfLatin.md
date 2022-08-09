@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语
-date: 2022-05-12 T0:00:00 +00:00
+date: 2022-08-09 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -21,6 +21,11 @@ categories: posts
 &emsp;&emsp; 公元1世纪, 罗马讽刺作家尤维纳利斯用"mēns sāna in corpore sānō"(A healthy mind in a healthy body, 健康的精神禹于健康的身体)表述生活中的至善. ASICS的名称据说来自于"animus sānus in corpore sānō"(翻译同上);  
 5. 谚语的英语翻译谐音:  
 &emsp;&emsp; 俗话讲"Semper ubi sub ubi!"(注意卫生, 防止皮疹!), 其单词逐个翻译将会得到"Always where under where!", 其谐音"Always wear underwear!"(一般都要穿内衣裤!);  
+6. 几个常见缩写的语源:  
+&emsp;&emsp; etc. = et cētera (and others) 表示并列有其他的;  
+&emsp;&emsp; n.b. = nōtā bene (note carefully) 表示需要特别注意;  
+&emsp;&emsp; v.s. = vidē suprā (see above) 表示双方比赛或竞争, 直译为"比比谁更好";  
+&emsp;&emsp; v.i. = vidē īnfrā (see below) 同样可以用来表示v.s., 但直译为"比比谁更差";  
 
 ### 惯用语 ###  
 1. ab absurdō  
@@ -44,6 +49,8 @@ categories: posts
 &emsp;&emsp; "caeca"是第二变位法形容词"caecus"的阴性单数主格形式;  
 8. Culpās multās habēbāmus et semper habēbimus.  
 &emsp;&emsp; (We used to have many troubles, and we always will have.) 我们经常有很多麻烦, 我们将总是有.  
+9. Ubi lēgēs valent, ibi populus līber potest valēre.  
+&emsp;&emsp; (Where the laws are strong, there people's liber can be strong.) 法律强大之处, 人的自由也能强大.  
 
 &emsp;&emsp;  
 <p align="right">UMRAY</p>
