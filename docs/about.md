@@ -21,12 +21,12 @@ permalink: /about/
 
 &emsp;CALL(呼号):BG2LFQ (Bravo,Golf,Two,Lima,Foxtrot,Quebec)  
 &emsp;========  
-&emsp;&emsp;BAND(频段)：UHF(特高频);  
+&emsp;&emsp;BAND(频段)：VHF(特高频);  
 &emsp;&emsp;MODE(模式)：WBFM(宽带调频);  
-&emsp;&emsp;FREQ(频率)：433.655MHz;  
+&emsp;&emsp;FREQ(频率)：144.655MHz;  
 &emsp;&emsp;T-CTCS(发射模拟亚音):77.0Hz;  
 &emsp;&emsp;R-CTCS(接收模拟亚音):77.0Hz;  
-&emsp;&emsp;QTH(台站地址,梅登黑德网格):Moving(移动中);  
+&emsp;&emsp;QTH(台站地址,梅登黑德网格):ON80KL;  
 &emsp;&emsp;TIME(可能的通联时间):02:00-8:00 UTC(协调世界时).  
 &emsp;========  
 &emsp;&emsp;ATTENTION(注意):Always QRT when I'm boring(不保证随时执守).  
@@ -35,9 +35,9 @@ permalink: /about/
 
 &emsp;[umaru@umaru.science](mailto:\\umaru@umaru.science "Send E-Mail to me.")  
 &emsp;========  
-&emsp;&emsp;TIME(合适的通联时间):Auto check per 60 minutes (平均每60分钟自动检查1次) start at 00:00 UTC (自协调世界时00:00开始)  and stop at 10:00 UTC (终止于协调世界时10:00)；  
+&emsp;&emsp;TIME(合适的通联时间):Auto check per 30 minutes (平均每30分钟自动检查1次) start at 00:00 UTC (自协调世界时00:00开始)  and stop at 10:00 UTC (终止于协调世界时10:00)；  
 &emsp;========  
-&emsp;&emsp;ATTENTION(注意):Garbage mailbox will be blocked forever(垃圾邮件将永久拒收).  
+&emsp;&emsp;ATTENTION(注意):Addr of trash mail will be blocked forever(垃圾邮件来源将永久拒收).  
 
 3.Mobile Phone(移动电话):  
 
@@ -57,7 +57,7 @@ permalink: /about/
 > ###### &emsp;祝访客朋友平安健康,旨意承行。73。 ######  
 
 &emsp;&emsp;顺颂  
-冬祺  
+秋祺  
 
 <p align="right">Umaru Aya</p>
-<p align="right">2021.12.12</p>
+<p align="right">2022.09.06</p>
