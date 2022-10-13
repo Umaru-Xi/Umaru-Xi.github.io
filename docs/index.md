@@ -10,7 +10,9 @@ layout: home
 <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio>
 
 <marquee>想把你手牵,漫步在海边看浪花一片.</marquee>  
+<marquee>虽然文章发布日期没有变, 但网站有在更新喔. 请参阅下面的"网站更新记录".</marquee>  
 <marquee>收藏一份Umaru Aya的电子名片呐? 打开About页面看看啂.</marquee>  
+<marquee>部分笔记的LaTex源码可能无法使用XeLaTex正常编译, 请切换到LuaLaTex尝试.</marquee>  
 
 {% include SearchEngine.html %}
 
