@@ -1,0 +1,100 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 22.05.0 ] */
+/* [wxMaxima: input   start ] */
+Eq0l:E1*cos(d1)*cos(p)+E2*cos(d2)*sin(p);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Eq0r:Ea*cos(d);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Eq1l:-E1*cos(d1)*sin(p)+E2*cos(d2)*cos(p);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Eq1r:Eb*sin(d);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Eq2l:E1*sin(d1)*cos(p)+E2*sin(d2)*sin(p);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Eq2r:Ea*sin(d);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Eq3l:E1*sin(d1)*sin(p)-E2*sin(d2)*cos(p);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Eq3r:Eb*cos(d);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Sol1l:trigsimp(ratsimp(Eq0l*Eq3l-Eq1l*Eq3l));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Sol1r:trigsimp(ratsimp(Eq0r*Eq3r-Eq1r*Eq3r));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Sol1:trigsimp(ratsimp(Sol1l-Sol1r));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Sol2l:trigsimp(ratsimp(Eq0l/Eq2l+Eq1l/Eq3l));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Sol2r:trigsimp(ratsimp(Eq0r/Eq2r+Eq1r/Eq3r))
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Sol2:trigsimp(ratsimp(Sol2l-Sol2r))
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Q(S,chi,psi)=Q:S*cos(2*chi)*cos(2*psi);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+U(S,chi,psi)=U:S*cos(2*chi)*sin(2*psi);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+V(S,chi,psi)=V:S*sin(2*chi);
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+Jp:trigsimp(jacobian([Q,U,V], [S,chi,psi]));
+/* [wxMaxima: input   end   ] */
+
+
+/* [wxMaxima: input   start ] */
+hQ:Jp.[1,0,0];
+/* [wxMaxima: input   end   ] */
+
+
+
+/* Old versions of Maxima abort on loading files that end in a comment. */
+"Created with wxMaxima 22.05.0"$
