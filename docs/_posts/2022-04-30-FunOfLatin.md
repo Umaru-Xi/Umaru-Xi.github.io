@@ -26,6 +26,8 @@ categories: posts
 &emsp;&emsp; n.b. = nōtā bene (note carefully) 表示需要特别注意;  
 &emsp;&emsp; v.s. = vidē suprā (see above) 表示双方比赛或竞争, 直译为"比比谁更好";  
 &emsp;&emsp; v.i. = vidē īnfrā (see below) 同样可以用来表示v.s., 但直译为"比比谁更差";  
+7. 著名计算机图形硬件设计商NVIDIA(英伟达)名称的来历:  
+&emsp;&emsp; NVIDIA公司策划成立时将内部一些与加速或图形计算的设计命名为NV(意为Next Version). 其公司成立时联合创始人检索词典找到了"invidia"(意为"嫉妒")这个带有"nv"的拉丁语单词, 经过变形将"N"作为首字母, 得到"nvidia";  
 
 ### 惯用语 ###  
 1. ab absurdō  
