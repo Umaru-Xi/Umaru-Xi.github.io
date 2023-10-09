@@ -9,8 +9,8 @@ layout: home
 
 <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio>
 
+<marquee>2023年10月09日更新了About页面, 更新了联系方式.</marquee>  
 <marquee>想把你手牵,漫步在海边看浪花一片.</marquee>  
-<marquee>新的一年, 期待与读者一同继续: 执着热爱, 知晓更多, 追问概念的精确解.</marquee>  
 
 {% include SearchEngine.html %}
 
