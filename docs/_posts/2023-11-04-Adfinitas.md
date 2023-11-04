@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Affīnitās(为分布式计算机设计的N-Body仿真程序)
+title: Adfīnitās(为分布式计算机设计的N-Body仿真程序)
 date: 2023-11-04 T10:00:00 +08:00
 categories: posts
 ---
 
 {% include JavaScripts.html %}
 
-&emsp;&emsp;项目采用BSD-3-Clause协议开放源代码, 点击[这里](https://github.com/Umaru-Xi/Adfinitas/releases/download/2023-11-04/Adfinitas.tar.xz "源代码")获取源码. 或者点击[这里](https://github.com/Umaru-Xi/Adfinitas/releases "Git仓库")查看Git仓库最新进展.  
+&emsp;&emsp;项目采用BSD-3-Clause协议开放源代码, 点击[这里](https://github.com/Umaru-Xi/Adfinitas/releases/download/2023-11-04/Adfinitas.tar.xz "源代码")获取源码. 或者点击[这里](https://github.com/Umaru-Xi/Adfinitas "Git仓库")查看Git仓库最新进展.  
 
 &emsp;&emsp;Adfīnitās使用Julia语言编写, 支持并行计算及分布式计算. 一个可以轻松从多核处理器迁移到大型机超级计算机网络的设计.  
 &emsp;&emsp;核心程序依赖: Distributed, DistributedArrays, ProgressMeter;  
