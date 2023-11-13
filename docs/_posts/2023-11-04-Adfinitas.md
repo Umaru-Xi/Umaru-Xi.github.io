@@ -7,7 +7,9 @@ categories: posts
 
 {% include JavaScripts.html %}
 
-&emsp;&emsp;项目采用BSD-3-Clause协议开放源代码, 点击[这里](https://github.com/Umaru-Xi/Adfinitas/releases/download/2023-11-04/Adfinitas.tar.xz "源代码")获取源码. 或者点击[这里](https://github.com/Umaru-Xi/Adfinitas "Git仓库")查看Git仓库最新进展.  
+&emsp;&emsp;更新: 限制了所有的变量类型, 为了避免运行时类型自动推定, 以提高运行速度. 点击[这里](https://github.com/Umaru-Xi/Adfinitas/releases/download/2023-11-13/Adfinitas.tar.xz "最新源代码")获取2023年11月13日更新的源代码.  
+
+&emsp;&emsp;项目采用BSD-3-Clause协议开放源代码, 点击[这里](https://github.com/Umaru-Xi/Adfinitas/releases/download/2023-11-04/Adfinitas.tar.xz "源代码")获取2023年11月04日的源码. 或者点击[这里](https://github.com/Umaru-Xi/Adfinitas "Git仓库")查看Git仓库最新进展.  
 
 &emsp;&emsp;Adfīnitās使用Julia语言编写, 支持并行计算及分布式计算. 一个可以轻松从多核处理器迁移到大型机超级计算机网络的设计.  
 &emsp;&emsp;核心程序依赖: Distributed, DistributedArrays, ProgressMeter;  
