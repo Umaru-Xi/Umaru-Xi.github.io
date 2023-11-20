@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Adfīnitās(为分布式计算机设计的N-Body仿真程序)
-date: 2023-11-04 T10:00:00 +08:00
+date: 2023-11-20 T10:00:00 +08:00
 categories: posts
 ---
 
 {% include JavaScripts.html %}
+
+&emsp;&emsp;更新: 将显式Euler积分器更换为Varlet积分器, 以保持Hamilton力学体系的辛形式. 点击[这里](https://github.com/Umaru-Xi/Adfinitas/releases/download/2023-11-20/Adfinitas.tar.xz "最新源代码")获取2023年11月20日更新的源代码.  
 
 &emsp;&emsp;更新: 限制了所有的变量类型, 为了避免运行时类型自动推定, 以提高运行速度. 点击[这里](https://github.com/Umaru-Xi/Adfinitas/releases/download/2023-11-13/Adfinitas.tar.xz "最新源代码")获取2023年11月13日更新的源代码.  
 
@@ -28,9 +30,7 @@ categories: posts
 &emsp;&emsp; &emsp;&emsp; a. 3D轨道;  
 &emsp;&emsp; &emsp;&emsp; ![地日月系统轨道3D](/include/Adfinitas/MoonPosition.svg.png){:class="img-responsive"}  
 &emsp;&emsp; &emsp;&emsp; 3. 星系的N体仿真;  
-&emsp;&emsp; &emsp;&emsp; a. 100体的2D仿真;  
-&emsp;&emsp; &emsp;&emsp; ![100体2D仿真](/include/Adfinitas/anime2DGalaxyPosition.gif){:class="img-responsive"}  
-&emsp;&emsp; &emsp;&emsp; b. 1000体的3D仿真;  
+&emsp;&emsp; &emsp;&emsp; a. 1000体的3D仿真;  
 &emsp;&emsp; &emsp;&emsp; ![1000体3D仿真](/include/Adfinitas/animeGalaxyPosition.gif){:class="img-responsive"}  
 
 &emsp;&emsp;  
