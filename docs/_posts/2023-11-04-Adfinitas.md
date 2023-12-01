@@ -1,11 +1,15 @@
 ---
 layout: post
 title: Adfīnitās(为分布式计算机设计的N-Body仿真程序)
-date: 2023-11-20 T10:00:00 +08:00
+date: 2023-12-01 T10:00:00 +08:00
 categories: posts
 ---
 
 {% include JavaScripts.html %}
+
+&emsp;&emsp;注意: 本项目已经不再积极更新, 后续主要工作切换到本项目新的C语言版本[CAdfīnitās](/posts/2023/12/01/CAdfinitas.html "CAdfīnitās页面")以控制内存消耗. 如需源码, 请关注[CAdfīnitās进展](https://github.com/Umaru-Xi/CAdfinitas/ "Git仓库").  
+
+&emsp;&emsp;更新: 部分修复了大量运算时的内存消耗问题, 但没有完全修复垃圾收集机制引发的内存消耗. 点击[这里](https://github.com/Umaru-Xi/Adfinitas/releases/download/2023-12-01/Adfinitas.tar.xz "最新源代码")获取2023年12月01日更新的源代码.  
 
 &emsp;&emsp;更新: 将显式Euler积分器更换为Varlet积分器, 以保持Hamilton力学体系的辛形式. 点击[这里](https://github.com/Umaru-Xi/Adfinitas/releases/download/2023-11-20/Adfinitas.tar.xz "最新源代码")获取2023年11月20日更新的源代码.  
 
