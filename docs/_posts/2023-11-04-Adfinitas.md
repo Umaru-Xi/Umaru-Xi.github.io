@@ -7,7 +7,7 @@ categories: posts
 
 {% include JavaScripts.html %}
 
-&emsp;&emsp;注意: 本项目已经不再积极更新, 后续主要工作切换到本项目新的C语言版本[CAdfīnitās](/posts/2023/12/01/CAdfinitas.html "CAdfīnitās页面")以控制内存消耗. 如需源码, 请关注[CAdfīnitās进展](https://github.com/Umaru-Xi/CAdfinitas/ "Git仓库").  
+&emsp;&emsp;注意: 本项目已经不再积极更新, 后续主要工作切换到本项目新的C语言版本CAdfīnitās以控制内存消耗. 如需源码, 请关注[CAdfīnitās进展](https://github.com/Umaru-Xi/CAdfinitas/ "Git仓库")或本站相关页面.  
 
 &emsp;&emsp;更新: 部分修复了大量运算时的内存消耗问题, 但没有完全修复垃圾收集机制引发的内存消耗. 点击[这里](https://github.com/Umaru-Xi/Adfinitas/releases/download/2023-12-01/Adfinitas.tar.xz "最新源代码")获取2023年12月01日更新的源代码.  
 
