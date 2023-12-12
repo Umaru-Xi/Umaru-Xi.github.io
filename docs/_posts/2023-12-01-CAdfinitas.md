@@ -1,11 +1,13 @@
 ---
 layout: post
 title: CAdfīnitās(Adfīnitās的C实现)
-date: 2023-12-02 T10:00:00 +08:00
+date: 2023-12-12 T10:00:00 +08:00
 categories: posts
 ---
 
 {% include JavaScripts.html %}
+
+&emsp;&emsp;更新: 添加了仿真系统状态保存和读取功能. 分离了个人的常用数学结构库. 修复了MPI中的嵌套等待. 自2023年12月12日后的更新请直接访问[这里](https://github.com/Umaru-Xi/CAdfinitas/ "Git仓库")使用Git获取最新更新.  
 
 &emsp;&emsp;更新: 添加了MPI支持, 分布式计算的支持已经恢复. 点击[这里](https://github.com/Umaru-Xi/CAdfinitas/releases/download/2023-12-02/CAdfinitas.tar.xz "最新源代码")获取2023年12月02日更新的源代码.  
 
@@ -15,9 +17,7 @@ categories: posts
 
 &emsp;&emsp;本程序目前不仿真碰撞(目前关注Hamilton系统的Symplectic结构). 因此在示例3.2中, 系统的Hamilton并不被保持.  
 
-
-
-&emsp;&emsp;核心程序依赖: openMPI(仅并行计算时);  
+&emsp;&emsp;核心程序依赖: [libXi](https://github.com/Umaru-Xi/LibXi "LibXi的Git仓库"), openMPI(或其他MPI实现, 仅并行计算时);  
 &emsp;&emsp;示例程序依赖: GNU Plot, make, cc;  
 
 &emsp;&emsp;几个示例: 这些示例与Julia版本相同.  
