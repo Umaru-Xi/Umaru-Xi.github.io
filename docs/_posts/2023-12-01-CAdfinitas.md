@@ -1,11 +1,13 @@
 ---
 layout: post
 title: CAdfīnitās(Adfīnitās的C实现)
-date: 2023-12-12 T10:00:00 +08:00
+date: 2023-12-21 T10:00:00 +08:00
 categories: posts
 ---
 
 {% include JavaScripts.html %}
+
+&emsp;&emsp;更新: 将MPI控制函数移动到LibXi中以对其他项目提供全局支持, 对于纯粹的CAdfīnitās使用而言并不是必要的更新. 2023年12月21日.  
 
 &emsp;&emsp;更新: 添加了仿真系统状态保存和读取功能. 分离了个人的常用数学结构库. 修复了MPI中的嵌套等待. 自2023年12月12日后的更新请直接访问[这里](https://github.com/Umaru-Xi/CAdfinitas/ "Git仓库")使用Git获取最新更新.  
 
