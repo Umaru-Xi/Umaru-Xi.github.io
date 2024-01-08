@@ -37,6 +37,7 @@ categories: posts
 <div id="StandardLog"></div>
 标准化日志:  
 
+&emsp;&emsp;9.[标准化日志-20220504](/include/StandardLife/StandardLog/标准化日志-20240108.pdf);  
 &emsp;&emsp;8.[标准化日志-20220504](/include/StandardLife/StandardLog/标准化日志-20220504.pdf);  
 &emsp;&emsp;7.[标准化日志-20220502](/include/StandardLife/StandardLog/标准化日志-20220502.pdf);  
 &emsp;&emsp;6.[标准化日志-20220217](/include/StandardLife/StandardLog/标准化日志-20220217.pdf);  
