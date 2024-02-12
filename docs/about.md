@@ -20,7 +20,7 @@ permalink: /about/
 
 1.E-Mail(电子邮件)：  
 
-&emsp;[umaru@umaru.science](mailto:\\umaru@umaru.science "Send E-Mail to me.")  
+&emsp;[xi@nixyuki.com](mailto:\\xi@nixyuki.com "Send E-Mail to me.")  
 &emsp;========  
 &emsp;&emsp;TIME(合适的通联时间):Auto check per 30 minutes (平均每30分钟自动检查1次) start at 00:00 UTC (自协调世界时00:00开始)  and stop at 10:00 UTC (终止于协调世界时10:00)；  
 &emsp;========  
@@ -65,4 +65,4 @@ permalink: /about/
 秋祺  
 
 <p align="right">Umaru Aya</p>
-<p align="right">2023.10.09</p>
+<p align="right">2024.02.12</p>
