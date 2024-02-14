@@ -10,8 +10,6 @@ layout: home
 <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio>
 
 <marquee>本站地址即将变更为www.nixyuki.com, 请读者留意.</marquee>  
-<marquee>本站地址即将变更为www.nixyuki.com, 请读者留意.</marquee>  
-<marquee>本站地址即将变更为www.nixyuki.com, 请读者留意.</marquee>  
 <marquee>2023年10月09日更新了About页面, 更新了联系方式.</marquee>  
 
 {% include SearchEngine.html %}
