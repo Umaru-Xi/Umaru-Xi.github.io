@@ -52,6 +52,7 @@ categories: posts
 <div id="StandardStick"></div>
 标准化贴纸:  
 
+&emsp;&emsp;6.[小贴士-20240215](/include/StandardLife/StandardStick/小贴士-20240215.pdf);  
 &emsp;&emsp;5.[小贴士-20230211](/include/StandardLife/StandardStick/小贴士-20230211.pdf);  
 &emsp;&emsp;4.[小贴士-20221025](/include/StandardLife/StandardStick/小贴士-20221025.pdf);  
 &emsp;&emsp;3.[小贴士-20220911](/include/StandardLife/StandardStick/小贴士-20220911.pdf);  
