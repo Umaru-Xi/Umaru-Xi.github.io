@@ -1,4 +1,4 @@
-openpgp.initWorker({ path:'/includes/liaison/openpgp.worker.min.js' });
+openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
 
 (async () => {
     const serverAddr = "ws://liaison.nixyuki.com:44444"
