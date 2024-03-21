@@ -31,6 +31,10 @@ openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
 
     function refreshScreen(){
         setInterval(function() {document.getElementById(textID).value = sysContent + "\n" + textContent + keyInput + ((withBlinkLine == 1)? "_" : "");
+        if(document.getElementById(textID).style.height != (document.getElementById(textID).scrollHeight + 1)  + "px"){
+            document.getElementById(textID).style.height = "5px";
+            document.getElementById(textID).style.height = (document.getElementById(textID).scrollHeight + 1)  + "px";
+        }
         if(toBottomFlag == 1){
             document.getElementById('liaisonEnd').scrollIntoView(false);
             toBottomFlag = 0;
