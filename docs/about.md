@@ -17,8 +17,13 @@ permalink: /about/
 > ###### &emsp;请注意，下文包含三项重要信息，包括：联络方式、通联时间和备注.######  
 > ###### &emsp;本告知可能随时变更，恕不另行通知.######  
 
+1.Liaison Online(在线联络站):  
+&emsp;[To Liaison(前往联络站)](/yukiLiaison.html "Go to liaison")  
+&emsp;&emsp;Only English or Latin letter please (仅接受英语或其他拉丁化文字).  
+&emsp;&emsp;Write down the Name and ID for next time login (请记下用户名和ID以便下次登陆).  
+&emsp;&emsp;This function needs Javascript technology and IPv6 connection (本功能需要Javascript技术以及IPv6网络连接).  
 
-1.E-Mail(电子邮件)：  
+2.E-Mail(电子邮件):  
 
 &emsp;[xi@nixyuki.com](mailto:\\xi@nixyuki.com "Send E-Mail to me.")  
 &emsp;========  
@@ -26,15 +31,7 @@ permalink: /about/
 &emsp;========  
 &emsp;&emsp;ATTENTION(注意):Addr of trash mail will be blocked forever(垃圾邮件来源将永久拒收).  
 
-2.IM Software(实时通讯工具):  
-
-&emsp;&emsp;XXMP(Jaber): xi@im.umaru.science  
-&emsp;========  
-&emsp;&emsp;You can get in touch with me from my selfhost XXMP server. If you do not have an account, might should mail firstly (请通过我的XXMP服务器与我取得联系. 初次联络需要注册账号, 请与我邮件确认必要性).  
-&emsp;========  
-&emsp;&emsp;Other IM softwares are all toys, mail first (其他实时通信工具仅应作为辅助通信方式，不保证时效. 请先邮件联系).  
-
-3.Radio(无线电)：  
+3.Radio(无线电):  
 
 &emsp;CALL(呼号):BG2LFQ (Bravo,Golf,Two,Lima,Foxtrot,Quebec)  
 &emsp;========  
@@ -48,7 +45,15 @@ permalink: /about/
 &emsp;========  
 &emsp;&emsp;ATTENTION(注意):Always QRT when I'm boring(不保证随时执守).  
 
-4.Mobile Phone(移动电话):  
+4.IM Software(实时通讯工具):  
+
+&emsp;&emsp;XXMP(Jaber): xi@im.umaru.science  
+&emsp;========  
+&emsp;&emsp;You can get in touch with me from my selfhost XXMP server. If you do not have an account, might should mail firstly (请通过我的XXMP服务器与我取得联系. 初次联络需要注册账号, 请与我邮件确认必要性).  
+&emsp;========  
+&emsp;&emsp;Other IM softwares are all toys, mail first (其他实时通信工具仅应作为辅助通信方式，不保证时效. 请先邮件联系).  
+
+5.Mobile Phone(移动电话):  
 
 &emsp;Strangers are not allowed, mail first.(陌生人不可用, 请先邮件联系).  
 &emsp;========  
@@ -57,12 +62,12 @@ permalink: /about/
 &emsp;========  
 
 > #### 注意事项 ####  
-> ### &emsp;每天UTC 01:00前及UTC 09:00之后的任何信息均视为骚扰。 ###  
+> ### &emsp;每天UTC 01:00前及UTC 09:00之后的任何信息均视为骚扰. ###  
 > #### 其他 ####  
-> ###### &emsp;祝访客朋友平安健康,旨意承行。73。 ######  
+> ###### &emsp;祝访客朋友平安健康, 旨意承行. ######  
 
 &emsp;&emsp;顺颂  
-秋祺  
+春祉  
 
-<p align="right">Umaru Aya</p>
-<p align="right">2024.02.12</p>
+<p align="right">N. Yuki</p>
+<p align="right">2024.03.21</p>

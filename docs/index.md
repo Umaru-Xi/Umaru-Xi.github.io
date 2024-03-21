@@ -7,13 +7,13 @@ layout: home
 
 {% include JavaScripts.html %}
 
-<audio src="/include/BGM/Index_BGM.mp3" autoplay></audio>
+<!-- <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio> -->
 
+<marquee>上线了Liaison(联络站)功能, 欢迎直接在本站与我取得联系.</marquee>  
 <marquee>本站地址即将变更为www.nixyuki.com, 请读者留意.</marquee>  
-<marquee>2023年10月09日更新了About页面, 更新了联系方式.</marquee>  
 
-{% include SearchEngine.html %}
-
+<!-- {% include SearchEngine.html %} -->
+{% include ToLiaison.html %}
 
 友情链接: &emsp; [Farthing博客(Farthing)](https://farthing.xyz/) &emsp; [时之碎片(窃时者)](https://timeqsz.com/)  
 
