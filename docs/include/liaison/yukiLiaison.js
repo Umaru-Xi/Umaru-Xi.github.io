@@ -17,10 +17,12 @@ openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
     let socket = new WebSocket(serverAddr);
 
     function changeColor(backgroundColor, textColor){
-        document.getElementById(textID).style.color = textColor;
+        // document.getElementById(textID).style.backgroundColor = backgroundColor;
+        // document.getElementById(textID).style.textColor = textColor;
         document.body.style.background = backgroundColor;
     }
     window.addEventListener("load",function() {changeColor('black', 'white') });
+    // document.getElementById(textID).style.border = "none";
 
     function sysPrint(sysMessage){
         if(sysMessage != "") sysContent = "PROGRAM # " + sysMessage + "\n";
@@ -28,7 +30,7 @@ openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
     }
 
     function refreshScreen(){
-        setInterval(function() {document.getElementById(textID).innerHTML = "<span style=\"white-space: pre-line\"><strong>" + sysContent + "\n" + textContent + keyInput + ((withBlinkLine == 1)? "_" : "") + "</strong></span>";
+        setInterval(function() {document.getElementById(textID).value = sysContent + "\n" + textContent + keyInput + ((withBlinkLine == 1)? "_" : "");
         if(toBottomFlag == 1){
             document.getElementById('liaisonEnd').scrollIntoView(false);
             toBottomFlag = 0;
