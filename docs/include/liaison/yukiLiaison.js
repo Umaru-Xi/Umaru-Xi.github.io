@@ -1,7 +1,9 @@
+const serverAddr = "ws://liaison.nixyuki.com:44444"
+
 openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
+// openpgp.initWorker({ path:'./openpgp.worker.min.js' });
 
 (async () => {
-    const serverAddr = "ws://liaison.nixyuki.com:44444"
     var textID = "liaisonBox";
     var textContent = "";
     var sysContent = "";
@@ -9,6 +11,9 @@ openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
     var withBlinkLine = 0;
     var publicKeyChanged = 0;
     var toBottomFlag = 0;
+    var publicKeyString;
+    
+    let socket = new WebSocket(serverAddr);
 
     function changeColor(backgroundColor, textColor){
         document.getElementById(textID).style.color = textColor;
@@ -34,10 +39,8 @@ openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
     function blinkLine(){setInterval(function() {withBlinkLine = (withBlinkLine == 0) ? 1 : 0;}, 500);}
     blinkLine();
     sysPrint("User Interface ready.");
-    let socket = new WebSocket(serverAddr);
 
     sysPrint("Generating PGP Key...");
-    var publicKeyString;
     var privateKeyString;
     var generateOptions = {
         userIds: [{ name:"yukiWebUser", email:"randomly@nixyuki.com" }],
@@ -49,16 +52,6 @@ openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
         publicKeyString = key.publicKeyArmored;
     });
     sysPrint("Key ready.");
-
-    function connectionChecker(){setInterval(function() {
-        if(socket.readyState != 1){
-            sysPrint("Connection is lost.");
-            textContent = "";
-            return;
-        }
-    }, 500);}
-    connectionChecker();
-    sysPrint("Connection Ready.");
 
     const serverKeyString = `
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -154,8 +147,25 @@ yVftuEI7AiU=
             keyInput = keyInput.substring(0, keyInput.length - 1);
         }
     });
+    sysPrint("Waiting connection...");
+    
+    function liaisonStart(){
+        if(socket.readyState == 1)
+            socket.send("K" + publicKeyString);
+        else
+        setTimeout(liaisonStart, 100);
+    }
+    setTimeout(liaisonStart, 100);
     sysPrint("");
-    socket.send("K" + publicKeyString);
+
+    function connectionChecker(){setInterval(function() {
+        if(socket.readyState != 1){
+            sysPrint("Connection is lost.");
+            textContent = "";
+            return;
+        }
+    }, 500);}
+    connectionChecker();
 
 })();
 
