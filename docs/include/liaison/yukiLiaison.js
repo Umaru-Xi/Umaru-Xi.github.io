@@ -2,7 +2,6 @@ const serverAddr = "ws://liaison.nixyuki.com:44444"
 // const serverAddr = "ws://[::1]:44444"
 
 openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
-// openpgp.initWorker({ path:'./openpgp.worker.min.js' });
 
 (async () => {
     var textID = "liaisonBox";
@@ -16,13 +15,10 @@ openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
     
     let socket = new WebSocket(serverAddr);
 
-    function changeColor(backgroundColor, textColor){
-        // document.getElementById(textID).style.backgroundColor = backgroundColor;
-        // document.getElementById(textID).style.textColor = textColor;
+    function changeColor(backgroundColor){
         document.body.style.background = backgroundColor;
     }
-    window.addEventListener("load",function() {changeColor('black', 'white') });
-    // document.getElementById(textID).style.border = "none";
+    window.addEventListener("load",function() {changeColor('black') });
 
     function sysPrint(sysMessage){
         if(sysMessage != "") sysContent = "PROGRAM # " + sysMessage + "\n";
@@ -172,6 +168,7 @@ yVftuEI7AiU=
             return;
         }else{
             socket.send("R");
+            sysPrint("");
         }
     }, 500);}
     connectionChecker();
