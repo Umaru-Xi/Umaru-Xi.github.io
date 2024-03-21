@@ -2,7 +2,6 @@ openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
 
 (async () => {
     const serverAddr = "ws://liaison.nixyuki.com:44444"
-
     var textID = "liaisonBox";
     var textContent = "";
     var sysContent = "";
