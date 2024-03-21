@@ -1,4 +1,5 @@
 const serverAddr = "ws://liaison.nixyuki.com:44444"
+// const serverAddr = "ws://[::1]:44444"
 
 openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
 // openpgp.initWorker({ path:'./openpgp.worker.min.js' });
@@ -153,7 +154,7 @@ yVftuEI7AiU=
         if(socket.readyState == 1)
             socket.send("K" + publicKeyString);
         else
-        setTimeout(liaisonStart, 100);
+            setTimeout(liaisonStart, 100);
     }
     setTimeout(liaisonStart, 100);
     sysPrint("");
@@ -163,6 +164,8 @@ yVftuEI7AiU=
             sysPrint("Connection is lost.");
             textContent = "";
             return;
+        }else{
+            socket.send("R");
         }
     }, 500);}
     connectionChecker();
