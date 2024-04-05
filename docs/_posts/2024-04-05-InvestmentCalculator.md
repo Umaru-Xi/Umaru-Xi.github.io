@@ -51,21 +51,21 @@ categories: posts
             <label for="takeRadio">市价</label>
             <br>
             费率: 限价
-            <input id="ICAmakeRate" type="tel" value="0.25" style="width: 6ch"></input>% 
+            <input id="ICAmakeRate" type="tel" value="0.25" style="width: 6ch">% 
             市价: 
-            <input id="ICAtakeRate" type="tel" value="0.40" style="width: 6ch"></input>%
+            <input id="ICAtakeRate" type="tel" value="0.40" style="width: 6ch">%
             <br>
             购入价格:
-            <input id="ICAbuyPrice" type="tel" value="" style="width: 22ch"></input>
+            <input id="ICAbuyPrice" type="tel" value="" style="width: 22ch">
             <br>
             卖出下限:
-            <input id="ICAsellLimit" type="tel" disabled="yes" value="" style="width: 22ch"></input>
+            <input id="ICAsellLimit" type="tel" disabled="yes" value="" style="width: 22ch">
             <br>
             卖出价格:
-            <input id="ICAsellPrice" type="tel" value="" style="width: 22ch"></input>
+            <input id="ICAsellPrice" type="tel" value="" style="width: 22ch">
             <br>
             交易收益:
-            <input id="ICAprofitRate" type="tel" disabled="yes" value="" style="width: 22ch"></input>
+            <input id="ICAprofitRate" type="tel" disabled="yes" value="" style="width: 22ch">
         </td>
     </tr>
     </tbody>
