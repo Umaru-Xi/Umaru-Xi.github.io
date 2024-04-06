@@ -59,13 +59,13 @@ categories: posts
             <input id="ICAbuyPrice" type="number" value="" style="width: 22ch">
             <br>
             卖出下限:
-            <input id="ICAsellLimit" type="number" disabled="yes" value="" style="width: 22ch">
+            <input id="ICAsellLimit" disabled="yes" value="" style="width: 22ch">
             <br>
             卖出价格:
             <input id="ICAsellPrice" type="number" value="" style="width: 22ch">
             <br>
             交易收益:
-            <input id="ICAprofitRate" type="number" disabled="yes" value="" style="width: 22ch">
+            <input id="ICAprofitRate" disabled="yes" value="" style="width: 22ch">
         </td>
     </tr>
     </tbody>
