@@ -9,7 +9,7 @@ layout: home
 
 <!-- <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio> -->
 
-<marquee>上线了Liaison(联络站)功能, 欢迎直接在本站与我取得联系.</marquee>  
+<marquee>网络更新中, Liaison(联络站)服务需要暂停一段时间.</marquee>  
 <marquee>本站地址即将变更为www.nixyuki.com, 请读者留意.</marquee>  
 
 <!-- {% include SearchEngine.html %} -->
