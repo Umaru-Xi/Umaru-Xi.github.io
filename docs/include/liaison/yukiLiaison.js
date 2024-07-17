@@ -135,10 +135,10 @@ yVftuEI7AiU=
         if(key.length == 1)
             keyInput = keyInput + key;
         else if(key == "Enter"){
-            var utcStr = new Date().toUTCString();
-            console.log(utcStr);
+            // var utcStr = new Date().toUTCString();
+            // console.log(utcStr);
             if(publicKeyChanged == 0) socket.send("K" + publicKeyString);
-            keyInput = "[" + utcStr + "]" + keyInput;
+            // keyInput = "[" + utcStr + "]" + keyInput;
             var serverOptions = {
                 message: openpgp.message.fromText(keyInput),
                 publicKeys: (await openpgp.key.readArmored(serverKeyString)).keys,
