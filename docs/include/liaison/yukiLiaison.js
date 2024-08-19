@@ -1,7 +1,8 @@
 const serverAddr = "ws://liaison.nixyuki.com:8880"
-// const serverAddr = "ws://[::1]:8880"
-
 openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
+
+// const serverAddr = "ws://[::1]:8880"
+// openpgp.initWorker({ path:'./include/liaison/openpgp.worker.min.js' });
 
 (async () => {
     var textID = "liaisonBox";
@@ -113,7 +114,7 @@ yVftuEI7AiU=
     const privateKey = (await openpgp.key.readArmored(privateKeyString)).keys[0];
 
     socket.onmessage = async function(event) {
-        var receivedMessage = event.data
+        var receivedMessage = event.data;
         if(publicKeyChanged == 0 && receivedMessage == "K##||WBGT_KRV||##"){
             publicKeyChanged = 1;
             return;
@@ -123,11 +124,34 @@ yVftuEI7AiU=
             privateKeys: [privateKey]
         };
         var decryptedMessage;
+        const fileFlagStr = "F##||WBGT_FRV||##";
         await openpgp.decrypt(messageOptions).then(plaintext => {
             decryptedMessage = plaintext.data;
+            if(decryptedMessage.startsWith(fileFlagStr)){
+                var fileCodeAll = decryptedMessage.substring(fileFlagStr.length);
+                var fileName = fileCodeAll.substring(0, fileCodeAll.indexOf(fileFlagStr));
+                console.log(fileName)
+                var fileCode = fileCodeAll.substring(fileCodeAll.indexOf(fileFlagStr) + fileFlagStr.length);
+                console.log(fileCode)
+                let fileCodeString = atob(fileCode);
+                let byteArray = new Uint8Array(fileCodeString.length);
+                for (let fIndex = 0; fIndex < fileCodeString.length; fIndex++) {
+                    byteArray[fIndex] = fileCodeString.charCodeAt(fIndex);
+                }
+                let fileBlob = new Blob([byteArray]);
+                let fileRcvd = new File([fileBlob], fileName);
+                const fileLink = document.createElement('a');
+                fileLink.href = URL.createObjectURL(fileRcvd);
+                fileLink.download = fileRcvd.name;
+                document.body.appendChild(fileLink);
+                fileLink.click();
+                document.body.removeChild(fileLink);
+            }
         });
-        textContent = decryptedMessage;
-		toBottomFlag = 1;
+        if(!decryptedMessage.startsWith(fileFlagStr)){
+            textContent = decryptedMessage;
+		    toBottomFlag = 1;
+        }
     }
     var encryptedMessage;
     document.addEventListener('keydown', async function(event){
