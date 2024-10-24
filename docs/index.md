@@ -9,6 +9,7 @@ layout: home
 
 <!-- <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio> -->
 
+<marquee>Liaison的服务器出现了一些问题, 现已修复(Oct. 24, 2024). 很遗憾可能在一段时间内辜负了挚友的期望. </marquee>  
 <marquee>Liaison(联络站)服务重新上线啦, 现已支持IPv4接入.</marquee>  
 <marquee>本站地址即将变更为www.nixyuki.com, 请读者留意.</marquee>  
 
