@@ -9,7 +9,7 @@ categories: posts
 
 > ### 基于Debian再发行的一个zynq专用发行版 ###
 
-#### 下载链接: [Download Link](https://github.com/Umaru-Xi/Umaru-Xi.github.io/releases/download/Xibian/Xibian.tar.xz) ####
+#### 下载链接: [Download Link](https://github.com/YukiNix/YukiNix.Page/releases/download/Xibian/Xibian.tar.xz) ####
 
 #### 特性: ####
 

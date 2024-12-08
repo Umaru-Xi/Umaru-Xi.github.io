@@ -10,7 +10,7 @@ categories: posts
 &emsp;&emsp;这是笔者参与《物理学中的微分几何与拓扑》课程时留下的笔记, 课程没有参考教材.  
 &emsp;&emsp;注意: 由于是听课时的笔记, 为了实时性考虑笔者使用了开源的LyX作为LaTex编辑器. 该编辑器默认情况下并不保存标准LaTex文件, 原始文件需要使用该程序编辑.  
 
-#### LyX原始文件: [Source Files](https://github.com/Umaru-Xi/Umaru-Xi.github.io/releases/download/Differential_Geometry_And_Topology_In_Physics_Note/Differential_Geometry_And_Topology_In_Physics.tar.xz) ####  
+#### LyX原始文件: [Source Files](https://github.com/YukiNix/YukiNix.Page/releases/download/Differential_Geometry_And_Topology_In_Physics_Note/Differential_Geometry_And_Topology_In_Physics.tar.xz) ####  
 
 &emsp;&emsp;考虑到对老旧设备的兼容,本站不在线显示pdf文件.请打开相应链接查看.  
 

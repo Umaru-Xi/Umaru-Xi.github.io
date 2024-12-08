@@ -7,7 +7,7 @@ categories: posts
 
 {% include JavaScripts.html %}
 
-#### LaTex原始文件: [Source Files](https://github.com/Umaru-Xi/Umaru-Xi.github.io/releases/download/Become_Girls_Voice_Note/Become_Girls_Voice_Note.tar.xz) ####  
+#### LaTex原始文件: [Source Files](https://github.com/YukiNix/YukiNix.Page/releases/download/Become_Girls_Voice_Note/Become_Girls_Voice_Note.tar.xz) ####  
 
 &emsp;&emsp;考虑到对老旧设备的兼容,本站不在线显示pdf文件.请打开相应链接查看.  
 
